@@ -2,7 +2,9 @@
   MINI-PROJECT OOP — Medical Clinic Management System
   Module : Object-Oriented Programming | Level L2 Computer Science
 ================================================================
-
+You have to download the project:
+1-Click Code
+2-Click download zip
 PREREQUISITES
 -------------
 - Java JDK 11 or higher (tested with OpenJDK 21)
